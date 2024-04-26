@@ -1,7 +1,7 @@
 :root{
     --branco-principal:#FFFFFF;
     --cinza-secunario:#C0C0C0;
-    --botao-azul:#167BF7;
+    --botao-verde:#0ef547e3;
     --cor-de-fundo:#00030C;
 }
 
@@ -14,4 +14,10 @@ body{
 }
 .container{
     height: 100vh;
+}
+.containerbotao{
+background-color: var(--botao-verde);
+border-radius: 5px;
+padding: 10em;
+display: block;
 }
