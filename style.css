@@ -23,11 +23,13 @@ border-radius: 5px;
 padding: 1em;
 display: block;
 color: var(--branco-principal);
+text-decoration: none;
+margin-bottom: 1cm;
 }
 .botao_secundario{
     background-color: transparent;
     border: 2px solid var(--branco-principal);
 }
 .container_imagem{
-    
+    margin: 1cm 0 2cm 0;
 }
